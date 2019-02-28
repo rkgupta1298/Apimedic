@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\values-land_values-land.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,259,323,394",
+                        "endColumns": "61,71,69,63,70,67",
+                        "endOffsets": "112,184,254,318,389,457"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\values-pt-rBR_values-pt-rBR.arsc.flat",
             "map": [
                 {
@@ -120,21 +135,6 @@
                         "startOffsets": "3182,3318,3456",
                         "endColumns": "135,137,98",
                         "endOffsets": "3313,3451,3550"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\values-land_values-land.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,117,189,259,323,394",
-                        "endColumns": "61,71,69,63,70,67",
-                        "endOffsets": "112,184,254,318,389,457"
                     }
                 }
             ]
@@ -545,6 +545,21 @@
             ]
         },
         {
+            "outputFile": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\values-large-v4_values-large-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,248,319,390,460,530,598,666,730,785,889",
+                        "endColumns": "61,71,58,70,70,69,69,67,67,63,54,103,115",
+                        "endOffsets": "112,184,243,314,385,455,525,593,661,725,780,884,1000"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\values-mn_values-mn.arsc.flat",
             "map": [
                 {
@@ -647,21 +662,6 @@
                         "startOffsets": "6941",
                         "endColumns": "110",
                         "endOffsets": "7047"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\values-large-v4_values-large-v4.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\values-large-v4\\values-large-v4.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,117,189,248,319,390,460,530,598,666,730,785,889",
-                        "endColumns": "61,71,58,70,70,69,69,67,67,63,54,103,115",
-                        "endOffsets": "112,184,243,314,385,455,525,593,661,725,780,884,1000"
                     }
                 }
             ]
@@ -1024,22 +1024,6 @@
             ]
         },
         {
-            "outputFile": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\values-v23_values-v23.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,19,32,33,34,35",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1277,2079,2184,2299,2406",
-                        "endLines": "2,3,4,5,18,31,32,33,34,35",
-                        "endColumns": "134,134,74,86,12,12,104,114,106,112",
-                        "endOffsets": "185,320,395,482,1272,2074,2179,2294,2401,2514"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\values-eu-rES_values-eu-rES.arsc.flat",
             "map": [
                 {
@@ -1074,6 +1058,22 @@
                         "startOffsets": "2059,2166,2275,2380,2487,2611,2709,2812,2939,3044,3131",
                         "endColumns": "106,108,104,106,123,97,102,126,104,86,93",
                         "endOffsets": "2161,2270,2375,2482,2606,2704,2807,2934,3039,3126,3220"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\values-v23_values-v23.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2184,2299,2406",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35",
+                        "endColumns": "134,134,74,86,12,12,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2179,2294,2401,2514"
                     }
                 }
             ]

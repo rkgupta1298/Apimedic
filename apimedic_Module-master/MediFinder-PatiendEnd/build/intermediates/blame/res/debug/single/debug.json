@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_replay_30_white_36.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xxhdpi-v4\\quantum_ic_replay_30_white_36.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -20,12 +20,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xxhdpi-v4\\quantum_ic_volume_off_grey600_36.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_stop_white_24.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xhdpi-v4\\quantum_ic_stop_white_24.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
@@ -112,12 +112,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_cast_ic_notification_0.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-9.4.0.aar\\e4b5a0d9dcb81bdc97069f0fc96f0918\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_forward_10_white_24.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-mdpi-v4\\quantum_ic_forward_10_white_24.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_cast_ic_notification_0.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-9.4.0.aar\\e4b5a0d9dcb81bdc97069f0fc96f0918\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_cast_ic_notification_1.png.flat",
@@ -136,12 +136,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -196,12 +196,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable-xxhdpi\\ic_cast_on_2_light.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_setting_light.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable-hdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -216,16 +216,20 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-mdpi-v4\\quantum_ic_volume_off_grey600_36.png"
     },
     {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\layout_activity_patient_login.xml.flat",
+        "source": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\src\\main\\res\\layout\\activity_patient_login.xml"
+    },
+    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable_mr_ic_pause_light.xml.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable\\mr_ic_pause_light.xml"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable_mr_ic_pause_light.xml.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_skip_next_grey600_36.png.flat",
@@ -264,32 +268,32 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_places_ic_search.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\1a15ee1de4ea3fe14d72489d84be4c1c\\res\\drawable-xxxhdpi-v4\\places_ic_search.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\layout_place_autocomplete_progress.xml.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\1a15ee1de4ea3fe14d72489d84be4c1c\\res\\layout\\place_autocomplete_progress.xml"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_skip_next_white_36.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_36.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_play_circle_filled_white_36.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_skip_next_white_36.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xhdpi-v4\\quantum_ic_skip_next_white_36.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\layout_place_autocomplete_progress.xml.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\1a15ee1de4ea3fe14d72489d84be4c1c\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cast_dark.png.flat",
@@ -448,12 +452,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cast_on_2_light.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable-xhdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_plus_signin_btn_icon_dark_disabled.9.png.flat",
@@ -484,16 +488,16 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xxxhdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_focused.9.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_forward_30_grey600_36.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_grey600_36.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_forward_30_grey600_36.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_30_grey600_36.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_replay_30_grey600_36.png.flat",
@@ -548,12 +552,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_plus_signin_btn_text_light_focused.9.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_volume_off_white_36.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xhdpi-v4\\quantum_ic_volume_off_white_36.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_plus_signin_btn_text_light_focused.9.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_notification_skip_prev.xml.flat",
@@ -564,16 +568,16 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_plusone_medium_off_client.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-9.4.0.aar\\d53badf1d3baba5b7e3cae780fe52e6f\\res\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal.9.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_media_pause.png.flat",
@@ -676,16 +680,16 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_plus_signin_btn_icon_light_focused.9.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\layout-v21_place_autocomplete_fragment.xml.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\1a15ee1de4ea3fe14d72489d84be4c1c\\res\\layout-v21\\place_autocomplete_fragment.xml"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\layout-v21_place_autocomplete_fragment.xml.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\1a15ee1de4ea3fe14d72489d84be4c1c\\res\\layout-v21\\place_autocomplete_fragment.xml"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_plus_signin_btn_icon_light_focused.9.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_plus_signin_btn_text_dark_disabled.9.png.flat",
@@ -748,24 +752,24 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_setting_dark.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable-xxhdpi\\ic_setting_dark.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_cast_ic_notification_0.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-9.4.0.aar\\e4b5a0d9dcb81bdc97069f0fc96f0918\\res\\drawable-xxhdpi-v4\\cast_ic_notification_0.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_cast_ic_notification_0.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-9.4.0.aar\\e4b5a0d9dcb81bdc97069f0fc96f0918\\res\\drawable-xxhdpi-v4\\cast_ic_notification_0.png"
-    },
-    {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_places_ic_clear.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\1a15ee1de4ea3fe14d72489d84be4c1c\\res\\drawable-xxhdpi-v4\\places_ic_clear.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_setting_dark.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable-xxhdpi\\ic_setting_dark.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_full_open_on_phone.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-xxhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_places_ic_clear.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\1a15ee1de4ea3fe14d72489d84be4c1c\\res\\drawable-xxhdpi-v4\\places_ic_clear.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_clear_white_24.png.flat",
@@ -784,12 +788,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_plus_signin_btn_text_dark_normal.9.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
@@ -812,16 +816,16 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_focused.9.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_focused.9.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_cast_ic_notification_1.png.flat",
@@ -868,20 +872,20 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xxhdpi-v4\\quantum_ic_cast_white_36.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_cast_ic_notification_1.png.flat",
@@ -896,12 +900,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_white_36.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cast_on_2_light.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable-hdpi\\ic_cast_on_2_light.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\layout_list_layout.xml.flat",
         "source": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cast_on_2_light.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable-hdpi\\ic_cast_on_2_light.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_plus_signin_btn_icon_light_pressed.9.png.flat",
@@ -920,12 +924,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\1a15ee1de4ea3fe14d72489d84be4c1c\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable_mr_ic_media_route_connecting_mono_light.xml.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_cast_ic_notification_0.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-9.4.0.aar\\e4b5a0d9dcb81bdc97069f0fc96f0918\\res\\drawable-xhdpi-v4\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable_mr_ic_media_route_connecting_mono_light.xml.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_cast_ic_notification_1.png.flat",
@@ -936,12 +940,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-v23\\abc_control_background_material.xml"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_skip_next_white_24.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_white_24.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_plus_signin_btn_text_light_focused.9.png.flat",
@@ -960,12 +964,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_forward_30_white_24.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-mdpi-v4\\quantum_ic_forward_30_white_24.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_forward_30_white_24.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-mdpi-v4\\quantum_ic_forward_30_white_24.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_art_track_grey600_48.png.flat",
@@ -1096,16 +1100,16 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_art_track_grey600_48.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-mdpi-v4\\quantum_ic_art_track_grey600_48.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_ic_plusone_medium_off_client.png.flat",
@@ -1152,12 +1156,12 @@
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\0a5de4c36c8cbcf47829eb084eac6afb\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
-        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
-    },
-    {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_pause_circle_filled_white_36.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\f18a2bff849119030e268dedbefdff52\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
@@ -1410,6 +1414,10 @@
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_clear_white_24.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.4.0.aar\\9cfb158e41f0369bd1a746a3b7b6c6d1\\res\\drawable-mdpi-v4\\quantum_ic_clear_white_24.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\layout_activity_patient_sign_up.xml.flat",
+        "source": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\src\\main\\res\\layout\\activity_patient_sign_up.xml"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_small_off_client.png.flat",
@@ -2750,6 +2758,10 @@
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_media_route_on_mono_dark.png.flat",
         "source": "C:\\Users\\rkgup\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-23.0.0.aar\\ab66d10b8f6585f02931c02c993e73f8\\res\\drawable-xxhdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable_medical.jpg.flat",
+        "source": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\src\\main\\res\\drawable\\medical.jpg"
     },
     {
         "merged": "D:\\apimedic_Module-master\\apimedic_Module-master\\MediFinder-PatiendEnd\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_notification_stop_live_stream.xml.flat",
