@@ -167,4 +167,18 @@
         android:onClick="emergency"
         android:text="EMERGENCY" />
 
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="250dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="522dp"
+        android:layout_marginEnd="164dp"
+        android:layout_marginRight="164dp"
+        android:layout_marginBottom="135dp"
+        android:onClick="LogOut"
+        android:text="Logout" />
+
+
 </RelativeLayout>

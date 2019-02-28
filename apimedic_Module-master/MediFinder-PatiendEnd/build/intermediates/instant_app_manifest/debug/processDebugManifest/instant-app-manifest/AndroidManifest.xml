@@ -55,6 +55,15 @@
             android:name="com.parse.starter.ListActivity"
             android:label="Medifinder-Patient" />
 
+        <service
+            android:name="com.parse.starter.MyService"
+            android:enabled="true" />
+
+        <receiver
+            android:name="com.parse.starter.SensorRestarterBroadcastReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:label="RestartServiceWhenStopped" />
         <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
 
         <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-36:12
+ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-45:12
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\rkgup\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\3c2777549d702b8df6c945d9b4bb300e\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\rkgup\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\501b71d7003702f50c6d116e980e5e33\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\rkgup\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\9cfb158e41f0369bd1a746a3b7b6c6d1\AndroidManifest.xml:2:1-10:12
@@ -60,20 +60,20 @@ MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\rkgup\.gr
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\rkgup\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\7e5246d143babf85413180d5503c6e1a\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\rkgup\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\b7e3a763dbcfaaeba3b359eaca00fba1\AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\rkgup\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\a0a839e681fb55394a77ae1525868458\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-45:12
 	package
 		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml
 		INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml
-		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-36:12
+		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-45:12
 		INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml
-		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-36:12
+		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:1-45:12
 		INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:2:11-69
@@ -140,7 +140,7 @@ ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEn
 	android:name
 		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:9:22-78
 application
-ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:11:5-34:19
+ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:11:5-43:19
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\rkgup\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\501b71d7003702f50c6d116e980e5e33\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\rkgup\.gradle\caches\transforms-1\files-1.1\play-services-9.4.0.aar\501b71d7003702f50c6d116e980e5e33\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\rkgup\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-9.4.0.aar\9cfb158e41f0369bd1a746a3b7b6c6d1\AndroidManifest.xml:5:5-9:19
@@ -285,6 +285,22 @@ ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEn
 		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:33:13-47
 	android:name
 		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:32:13-41
+service#com.parse.starter.MyService
+ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:34:9-36:46
+	android:enabled
+		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:36:13-35
+	android:name
+		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:35:13-38
+receiver#com.parse.starter.SensorRestarterBroadcastReceiver
+ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:38:9-42:66
+	android:enabled
+		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:40:13-35
+	android:label
+		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:42:13-54
+	android:exported
+		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml:39:13-78
 uses-sdk
 INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\src\main\AndroidManifest.xml

@@ -2,13 +2,13 @@
 <instant-run
     abi="x86"
     api-level="25"
-    build-mode="HOT_WARM"
+    build-mode="COLD"
     density="420dpi"
     format="10"
     plugin-version="3.3.1"
-    timestamp="1551331903472"
+    timestamp="1551336641769"
     token="2174616012760859175"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -24,15 +24,19 @@
         duration="0" />
 
     <artifact
-        location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\instant-run-apk\debug\MediFinder-PatiendEnd-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1551331281268"
-        verifier="FULL_BUILD_REQUESTED" >
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1551333273594"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -41,13 +45,7 @@
             location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
             location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_5.apk"
@@ -65,41 +63,37 @@
             location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
+            location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
             location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\instant-run-apk\debug\MediFinder-PatiendEnd-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1551331802402"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1551336396048"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
+            location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
             location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1551331871792"
+        timestamp="1551336641769"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\instant-run-apk\debug\MediFinder-PatiendEnd-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1551331903472"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="D:\apimedic_Module-master\apimedic_Module-master\MediFinder-PatiendEnd\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

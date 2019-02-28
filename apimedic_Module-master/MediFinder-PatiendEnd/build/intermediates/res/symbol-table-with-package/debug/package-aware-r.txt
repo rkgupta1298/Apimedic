@@ -1005,6 +1005,7 @@ id list_view
 id loading_indicator
 id login
 id logo_only
+id logout
 id main_container
 id map
 id match_global_nicknames

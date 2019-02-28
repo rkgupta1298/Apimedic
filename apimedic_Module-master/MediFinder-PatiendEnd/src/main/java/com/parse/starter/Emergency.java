@@ -21,8 +21,11 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
+import com.parse.LogOutCallback;
+import com.parse.Parse;
 import com.parse.ParseException;
 import com.parse.ParseObject;
+import com.parse.ParseUser;
 import com.parse.SaveCallback;
 
 import java.util.ArrayList;
@@ -126,6 +129,18 @@ public class Emergency extends AppCompatActivity {
 
 
 
+    }
+
+    public void LogOut(View view){
+        ParseUser.logOutInBackground(new LogOutCallback() {
+            @Override
+            public void done(ParseException e) {
+                if(e==null){
+                    Intent intent = new Intent(Emergency.this,MainActivity.class);
+                    startActivity(intent);
+                }
+            }
+        });
     }
 
     public void knowSpecialist(View view)
